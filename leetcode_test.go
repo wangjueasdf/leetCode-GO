@@ -13,3 +13,6 @@ func TestCString(t *testing.T)  {
 func TestP1160(t *testing.T)  {
 	test1160()
 }
+func Test836(t *testing.T){
+	test836()
+}
